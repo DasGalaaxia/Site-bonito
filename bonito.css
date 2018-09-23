@@ -1,0 +1,76 @@
+body {
+    color: white; background: paleturquoise;
+    margin: 0;
+    text-align: center;
+}
+footer h1{
+    border: double 10px  grey;
+    background:black; color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    
+}
+footer h2{
+    border: double 10px  grey;
+    background:black; color: white;
+    text-align: center;
+    margin: 0;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+footer a {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: center;
+}
+form p {
+border: double grey 10px;
+background: black;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 15px;
+}
+Header h1 {
+    border: double grey 10px;
+    background: black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+Header h2 {
+    border: double grey 10px;
+    background: black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+section p {
+        border: double grey 10px;
+        background: black;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        font-size: 14pt;
+}
+form h3{
+    border: black double 10px;
+    background:red;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+header img {
+    height: 300px;
+    width: 700px;
+}
